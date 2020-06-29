@@ -18,6 +18,4 @@ Note: For processing huge number of documents, powerful machine is needed. Here 
 Experimenting with techniques like SVM, KNN, Logistic Regression, Neural Networks and comparing using standard measures like Precision, Recall, Accuracy and F1 Score. 
 
 
-Guidance: Prof. Sandip Modha
-
 Note: I haven't uploaded the datasets because of it's large size. But if needed to understand the code, feel free to ping me.
